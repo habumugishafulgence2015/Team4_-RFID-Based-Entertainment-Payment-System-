@@ -8,6 +8,7 @@ UWANTEGE Stela prossy 220014218,
 MUNYANEZA M Adolphe 220014266
 
 ABSTRACT
+
  RFID BASED ENTERTAINMENT PAYMENT System is a new an approach in public entertainment system useful for more efficient, accurate, time saving, leakage reduction, increase of productivity and cashless. The conventional system of buying tickets for a certain event which is manually has drawbacks like inaccurate quantity of places, time consuming, and Ticket theft.
  In this project, we proposed RFID based Entertainment Payment System technology instead of the conventional system. To buy the ticket you need to show the registered RFID tag (it should be registered by company that sells ticket) with amount   equivalent   to the ticket he/she want to buy then you will swipe your RFID tag to  the RFID reader(hold by ticket wholesalers), then controller check the customer codes and details of amounts in the card. After verification then customer need to enter the required number depending to the sit of his/her choice   by using keypad then microcontroller (system) send the message with deducted amount, balance on the account, sit number and category on the through GSM technology.
 
