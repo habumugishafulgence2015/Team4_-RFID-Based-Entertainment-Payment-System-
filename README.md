@@ -60,8 +60,7 @@ The SIM900 is a complete Quad-band GSM/GPRS solution in a SMT module which can b
 6.) LCD.
 This is used to display sms with available sit type, sit numbers, available places.
 
-....................................................
-
+![ww](https://user-images.githubusercontent.com/61348839/75914498-897f1d00-5e5d-11ea-8cca-51c0721bd4c6.PNG)
 SOFTWARE REQUIREMENTS
 Arduino IDE
 
