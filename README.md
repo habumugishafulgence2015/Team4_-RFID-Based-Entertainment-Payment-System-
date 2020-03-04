@@ -68,7 +68,7 @@ Interview is the research method done in order to know how public entertainment 
 
 IMPLEMENTATION OF THE PROJECT 
 
-.................................
+![111](https://user-images.githubusercontent.com/61348839/75915485-40c86380-5e5f-11ea-9f4d-8d40d42db142.PNG)
 
 
 THE WORKING PRINCIPLE OF THE SYSTEM
