@@ -38,7 +38,7 @@ The Arduino MEGA 2560 is designed for projects that require more I/O lines, more
 2.RFID(Radio frequency Identification) tag
 Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. An RFID tag consists of a tiny radio transponder; a radio receiver and transmitter, RFID tag is used to keep data concerned with customers like   amount (money)   and should be registered in the system.
 
-...............................
+![1](https://user-images.githubusercontent.com/61348839/75913092-f7761500-5e5a-11ea-9fd0-d8432962526c.PNG)
 
 
 3.RFID Reader
