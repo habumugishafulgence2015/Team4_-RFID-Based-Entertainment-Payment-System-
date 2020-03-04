@@ -1,4 +1,4 @@
-# Team4_RFID BASED ENTERTAINMENT PAYMENT 
+# Team4_RFID BASED ENTERTAINMENT PAYMENT SYSTEM 
 GROUP MEMBERS
 HABUMUGISHA Fulgence 218015284
 GASANA James Madson  220014138
@@ -35,16 +35,11 @@ The Arduino MEGA 2560 is designed for projects that require more I/O lines, more
 ![Capture](https://user-images.githubusercontent.com/61348839/75912415-da8d1200-5e59-11ea-8efb-db9ef4ad8e3e.PNG)
 
 
-2.RFID(Radio frequency Identification) tag
-Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. An RFID tag consists of a tiny radio transponder; a radio receiver and transmitter, RFID tag is used to keep data concerned with customers like   amount (money)   and should be registered in the system.
-
-![1](https://user-images.githubusercontent.com/61348839/75913092-f7761500-5e5a-11ea-9fd0-d8432962526c.PNG)
-
-
-3.RFID Reader
+2.RFID Reader
 A RFID Reader is a device that uses radio-frequency waves to wirelessly transfer data between itself and a RFID tag/label in order to identify, categorize and track assets. It will be  used to read data on the tag.
 
-......................................
+
+![1](https://user-images.githubusercontent.com/61348839/75913092-f7761500-5e5a-11ea-9fd0-d8432962526c.PNG)
 
 4.GSM module (SIM 900).
 The SIM900 is a complete Quad-band GSM/GPRS solution in a SMT module which can be embedded in the customer applications. Featuring an industry-standard interface, the SIM900 delivers GSM/GPRS 850/900/1800/1900MHz performance for voice, SMS, Data, and Fax in a small form factor and with low power consumption. GSM module (SIM 900).This is used send sms to the customer when you swipe your Rfid tag to the Rfid reader.
@@ -61,6 +56,7 @@ The SIM900 is a complete Quad-band GSM/GPRS solution in a SMT module which can b
 This is used to display sms with available sit type, sit numbers, available places.
 
 ![ww](https://user-images.githubusercontent.com/61348839/75914498-897f1d00-5e5d-11ea-8cca-51c0721bd4c6.PNG)
+
 SOFTWARE REQUIREMENTS
 Arduino IDE
 
