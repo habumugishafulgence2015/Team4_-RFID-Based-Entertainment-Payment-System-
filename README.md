@@ -75,6 +75,6 @@ THE WORKING PRINCIPLE OF THE SYSTEM
 The main part of our system is based on the RFID and GSM technology. RFID stands for Radio-Frequency Identifications. The RFID is small electronic device that consist of a small chip and an antenna. The chip typically is capable of carrying 2,000 bytes of data or less. Customer needs to enter sit type through keypad connected to to Rfid reader and the available places are shown then swipes the Rfid tag to pay the chosen sit and then the money will be deducted from the card and receive the sms with sit number in chosen sit type and it will be displayed on LCD. Since the controller has the code inside it will recognize the data coming from RFID by comparing it with the database. Once the user is identified (if registered), it will know if the card is not registered no action will take place.
 
 CIRCUIT DIAGRAM OF THE SYSTEM
-...................................
 
+![EEF](https://user-images.githubusercontent.com/61348839/75915746-ba605180-5e5f-11ea-8c32-0588a5aca844.PNG)
 
