@@ -21,6 +21,7 @@ Our system will solve the problem of crowd of people  paying cash since in our s
 In our project we designed the hardware based on case study of stadium with three (3) different site (regular, VIP and VVIP), the user has to enter the required sit type on keypad and then swipe the rfid tag to the rfid reader then LCD will display the sit type, sit number, amount deducted and balance and if no enough money the system will show the balance and message that no enough amount and suggest for recharge the card. All these actions are controlled by the Arduino mega 2560 microcontroller. GSM module is included in our system to send data (sit type, sit number, balance to the customer).
 
 REQUIREMENTS
+
 Hardware requirements
 Our project requires different components for implementation as listed below with role of each in our project
 1.Microcontroller (Arduino mega 2560)
@@ -44,6 +45,7 @@ A RFID Reader is a device that uses radio-frequency waves to wirelessly transfer
 ![1](https://user-images.githubusercontent.com/61348839/75913092-f7761500-5e5a-11ea-9fd0-d8432962526c.PNG)
 
 4.GSM module (SIM 900).
+
 The SIM900 is a complete Quad-band GSM/GPRS solution in a SMT module which can be embedded in the customer applications. Featuring an industry-standard interface, the SIM900 delivers GSM/GPRS 850/900/1800/1900MHz performance for voice, SMS, Data, and Fax in a small form factor and with low power consumption. GSM module (SIM 900).This is used send sms to the customer when you swipe your Rfid tag to the Rfid reader.
 
 ![22](https://user-images.githubusercontent.com/61348839/75913439-9e5ab100-5e5b-11ea-8a07-46c85ccfc62f.PNG)
@@ -60,6 +62,7 @@ This is used to display sms with available sit type, sit numbers, available plac
 ![ww](https://user-images.githubusercontent.com/61348839/75914498-897f1d00-5e5d-11ea-8cca-51c0721bd4c6.PNG)
 
 SOFTWARE REQUIREMENTS
+
 Arduino IDE
 
 METHODOLOGY
@@ -74,6 +77,7 @@ IMPLEMENTATION OF THE PROJECT
 
 
 THE WORKING PRINCIPLE OF THE SYSTEM
+
 The main part of our system is based on the RFID and GSM technology. RFID stands for Radio-Frequency Identifications. The RFID is small electronic device that consist of a small chip and an antenna. The chip typically is capable of carrying 2,000 bytes of data or less. Customer needs to enter sit type through keypad connected to to Rfid reader and the available places are shown then swipes the Rfid tag to pay the chosen sit and then the money will be deducted from the card and receive the sms with sit number in chosen sit type and it will be displayed on LCD. Since the controller has the code inside it will recognize the data coming from RFID by comparing it with the database. Once the user is identified (if registered), it will know if the card is not registered no action will take place.
 
 CIRCUIT DIAGRAM OF THE SYSTEM
