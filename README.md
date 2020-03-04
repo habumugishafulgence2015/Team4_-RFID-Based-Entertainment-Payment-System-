@@ -32,7 +32,7 @@ Our project requires different components for implementation as listed below wit
 1.Microcontroller( Arduino mega 2560)
 The Arduino MEGA 2560 is designed for projects that require more I/O lines, more sketch memory and more RAM. With 54 digital I/O pins, 16 analog inputs and a larger space for your sketch it is the recommended board for 3D printers and robotics projects. Microcontroller (Arduino mega 2560).the role Arduino in our project is to process the code.
 
-.....................................................
+![Capture](https://user-images.githubusercontent.com/61348839/75912415-da8d1200-5e59-11ea-8efb-db9ef4ad8e3e.PNG)
 
 
 2.RFID(Radio frequency Identification) tag
