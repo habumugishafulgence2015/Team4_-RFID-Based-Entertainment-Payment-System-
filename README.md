@@ -2,9 +2,9 @@
 GROUP MEMBERS
 HABUMUGISHA Fulgence 218015284,
 GASANA James Madson  220014138,
-INEZA Yves   
-UWANTEGE Stela prossy
-MUNYANEZA M Adolphe 
+INEZA Yves   220016893,
+UWANTEGE Stela prossy 220014218,
+MUNYANEZA M Adolphe 220014266
 
 ABSTRACT
  RFID BASED ENTERTAINMENT PAYMENT System is a new an approach in public entertainment system useful for more efficient, accurate, time saving, leakage reduction, increase of productivity and cashless. The conventional system of buying tickets for a certain event which is manually has drawbacks like inaccurate quantity of places, time consuming, and Ticket theft.
